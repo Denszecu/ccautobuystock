@@ -1,4 +1,4 @@
 
 
 var value = document.getElementById("bankGood-0-val");
-javascript:alert('$value');
+javascript:alert('Hello');
