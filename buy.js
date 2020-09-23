@@ -1,15 +1,4 @@
-<html>
-<body>
 
-<h2>JavaScript Alert</h2>
+      alert("I am an alert box!");
 
-<button onclick="myFunction()">Try it</button>
 
-<script>
-function myFunction() {
-  alert("I am an alert box!");
-}
-</script>
-
-</body>
-</html>
