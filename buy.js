@@ -1,1 +1,4 @@
-document.getelementbyid("bankGood-0_-1").click();
+
+
+var value = document.getElementById("bankGood-0-val");
+javascript:alert($value)"
