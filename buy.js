@@ -1,4 +1,3 @@
-
-
-var value = document.getElementById("bankGood-0-val");
-alert('Hello');
+<script>
+alert("I am an alert box!");
+</script>
